@@ -1,0 +1,78 @@
+{
+  "copyright": "Copyright 2026 Parth Maniar. Apache-2.0.",
+  "as_of": "2026-10-01T13:07:00-07:00",
+  "metric": "ROC AUC",
+  "versions": [
+    {
+      "name": "V1",
+      "oof": 0.94318,
+      "public": 0.94307
+    },
+    {
+      "name": "V2",
+      "oof": 0.94552,
+      "public": 0.94563,
+      "weights": {
+        "lgb": 0,
+        "xgb": 0.05,
+        "cat": 0.95
+      }
+    },
+    {
+      "name": "triple-TE LightGBM",
+      "oof": 0.9459300948605641,
+      "public": 0.94614,
+      "auto_smoothing": "approximation"
+    },
+    {
+      "name": "triple-TE XGBoost",
+      "oof": 0.9458342314302586,
+      "public": null
+    },
+    {
+      "name": "70/30 LGBM/XGB rank blend",
+      "oof": 0.9459587625627486,
+      "public": null
+    },
+    {
+      "name": "Reduced-feature TE CatBoost",
+      "oof": 0.9459250727340643,
+      "public": null
+    },
+    {
+      "name": "50/50 TE LGBM/CatBoost rank blend",
+      "oof": 0.94603516848509,
+      "public": null
+    },
+    {
+      "name": "equal three-model TE rank blend",
+      "oof": 0.9460288013507552,
+      "public": null
+    },
+    {
+      "name": "0/5/95 TE rank blend",
+      "oof": 0.945943628416168,
+      "public": null
+    }
+  ],
+  "final": {
+    "rank": 1023,
+    "teams": 3521,
+    "submission_filename": "blend_rules.csv",
+    "public": 0.94613,
+    "private": 0.94526,
+    "recipe_recovered": false,
+    "csv_sha256": "4dc6068a601d9ac94b7743fdc527de9b09340f3e78cabab43086d2e6a97c491b"
+  },
+  "private_scores": {
+    "triple-TE LightGBM": 0.94518,
+    "V2": 0.94471,
+    "blend_candidate.csv": 0.94525
+  },
+  "owner_snapshot": {
+    "received_date": "2026-10-01",
+    "training_source_matches": true,
+    "scored_csv_matches": true,
+    "new_final_blend_recipe": false
+  }
+}

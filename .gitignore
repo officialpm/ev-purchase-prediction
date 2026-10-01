@@ -1,0 +1,10 @@
+# Copyright 2026 Parth Maniar. Apache-2.0.
+data/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+catboost_info/
+*.npy
+*.log
+.env
+.DS_Store

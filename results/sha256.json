@@ -1,0 +1,27 @@
+{
+  "algorithm": "SHA256",
+  "files": {
+    ".gitignore": "e4968c6c108f4b002aee928ce9ed89013174701033aa625f9189700f07dec977",
+    "LICENSE": "769f13db1c7f19181fe01db7e59667800cf42080bd3783f311d34ed2cfdb42b6",
+    "README.md": "cd2becfd975dca1410ab917d8e550ceb568cb6cb42dd61ea7642570a1e816f39",
+    "WRITEUP.md": "a29107beabf044d58a7290f0a5a1a6d58235f5d8c49ce5978297ba4c7cdcbe5e",
+    "docs/final-blend-recovery.md": "ddfdb6e944e011a653e0a12191ed5b2cd027b57bf047da7fb520a8d89cdb9d0e",
+    "docs/owner-snapshot-check.md": "2e8056050aabd57680d19d182441deff667e9281f968bad54520eac5ade7689c",
+    "notebooks/01-v2-baseline.ipynb": "70d4c87d5ffc6e1ac96be20a0a9549c8e16072d5685f5f5bc75c58c493a77ad4",
+    "notebooks/02-triple-target-encoding.ipynb": "d0dd7a20faae2d73dd2dfe24b61ce6d1b87fad1d7a2efd0d3b2f28f7c64ba870",
+    "predictions/README.md": "07fdd7f83d7d6f053146d5d4866c09e5f1446e3abb5e02b8a02fe571cf78aa57",
+    "predictions/final-blend.csv": "4dc6068a601d9ac94b7743fdc527de9b09340f3e78cabab43086d2e6a97c491b",
+    "predictions/submission.csv": "339036af14e1ed28e566bd9be92dc6b192b54a7f8cd15a825c28643613abddef",
+    "reference/owner-supplied/LICENSE": "769f13db1c7f19181fe01db7e59667800cf42080bd3783f311d34ed2cfdb42b6",
+    "reference/owner-supplied/README.md": "c929ed533e90e5fbf03977085d8dfbc91bc2e93706acef1fc6cb6f9e6a07f223",
+    "reference/owner-supplied/src/build-submission.py": "02fce76b3821ddf7f69576b36406f8bac00680450054f324dc97280380cccb2b",
+    "reference/owner-supplied/src/triple-te-compact.py": "b43c928b2af86f37a6c2be24fe65438c7e8667ced61d5d8d5ac2cefb33a205d0",
+    "reference/scored-triple-te.py": "b43c928b2af86f37a6c2be24fe65438c7e8667ced61d5d8d5ac2cefb33a205d0",
+    "reference/scored-v2.ipynb": "87edcfd2d8f8cb212cd2b7fd4a745e48c4f4caffa66c65eb50c0d18841d48519",
+    "requirements.txt": "a41a41be74ab80618cb0cc7e9e03ac438863208cafc9d5b55ea9cfec74a69305",
+    "results/metrics.json": "6985d18268ac3be20a0c1d7456536a6a79e3f2a7f3a4eb4d5d49180187afbcb5",
+    "src/build-submission.py": "340bc5a8c3290ecab18d24d94da255f6bd624da73366f09ba1ef59a250b5d637",
+    "src/train-triple-te.py": "d8d26affe0b7bfd4bdc53284afda78baa4a817bfde80028bbe3225802b5cd412",
+    "src/train-v2.py": "c10c2147b332c95f3d4da7bbdc0271cf79ead8ba8d8cc02e4f6ff9a881361e5d"
+  }
+}
