@@ -1,9 +1,9 @@
 {
   "algorithm": "SHA256",
   "files": {
-    ".gitignore": "e4968c6c108f4b002aee928ce9ed89013174701033aa625f9189700f07dec977",
+    ".gitignore": "947a1656bdef819cdf541d9cdc13fb52ff5faaf53d420ea11c09395e3801f7e7",
     "LICENSE": "769f13db1c7f19181fe01db7e59667800cf42080bd3783f311d34ed2cfdb42b6",
-    "README.md": "cd2becfd975dca1410ab917d8e550ceb568cb6cb42dd61ea7642570a1e816f39",
+    "README.md": "cf2506bfba4638f3e39a0014b72eed49c1f92243dd496fc4e62eaaeaee9c411c",
     "WRITEUP.md": "a29107beabf044d58a7290f0a5a1a6d58235f5d8c49ce5978297ba4c7cdcbe5e",
     "docs/final-blend-recovery.md": "ddfdb6e944e011a653e0a12191ed5b2cd027b57bf047da7fb520a8d89cdb9d0e",
     "docs/owner-snapshot-check.md": "2e8056050aabd57680d19d182441deff667e9281f968bad54520eac5ade7689c",
